@@ -25,8 +25,8 @@
   line-height: 1.2;
   letter-spacing: 4px;
 
-  font-size: 5rem;
-  font-weight: 700;
+  font-size: 3rem;
+  font-weight: 500;
   color: #111; 
   overflow: hidden;
 }
@@ -176,8 +176,8 @@ body {
   letter-spacing: 4px;
   overflow: hidden;
 
-  font-size: 4.5rem;
-  font-weight: 700;
+  font-size: 2rem;
+  font-weight: 500;
   color: white; 
   text-shadow: 0 0 1px #e7a1e4, 0 0 2px #e7a1e4, 0 0 5px #e7a1e4;
 }
